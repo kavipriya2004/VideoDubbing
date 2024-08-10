@@ -27,8 +27,8 @@ To get started with this project, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/videodubbing.git
-cd videodubbing
+git clone https://github.com/yourusername/videoDubbing.git
+cd videoDubbing
 ```
 
 ### Install Dependencies
